@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String s = "修改修改修改";
+        String s2="建分支之后增加的";
     }
 }
