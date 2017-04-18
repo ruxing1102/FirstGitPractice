@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         String s = "修改修改修改";
         String s2="建分支之后增加的";
+        String s3="又一次提交";
     }
 }
