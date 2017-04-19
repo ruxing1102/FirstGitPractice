@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         String s3 = "又一次提交";
         String s4 = "新的一个分支";
         String s5 = "今天新建的第一个分支";
+        String s6="今天新建的第一个分支的第二个内容";
     }
 }
